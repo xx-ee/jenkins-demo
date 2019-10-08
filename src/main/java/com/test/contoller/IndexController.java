@@ -8,6 +8,6 @@ public class IndexController {
     @RequestMapping("/test")
     public String goIndex()
     {
-        return "index"; 
+        return "index";
     }
 }
